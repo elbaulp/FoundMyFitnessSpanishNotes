@@ -1,0 +1,6 @@
+- Se ha mostrado que hay que hacer periodos de comer de 12/13 horas.
+- Hay estudios que muestran que a las mujeres les decrementa el riesgo de cáncer de pecho.
+- Cuando se duerme es cuando se repara el cuerpo, es aquí cuando deberíamos estar haciendo fasting.
+- Para las 19/20 hay que dejar de comer
+- De igual manera que para ganar músculo haces deporte y necesitas descanso, el estómago necesita descanso también, ya que hacer la digestión produce oxidaciones en el cuerpo que deben limpiarse.
+- No hace falta ser estrictos, si un dia comes más tarde no pasa nada. Ya que luevo vuelves a acostumbrar al cuerpo. Se basa en que la mayor parte de los días estés haciendolo bien, puedes saltartelo los findes por ejemplo

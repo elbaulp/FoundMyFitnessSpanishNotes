@@ -1,0 +1,11 @@
+- Time restricted feeding e intermitent fasting se solapan un poco, pero no son lo mismo. La primera quiere decir que solo puedes comer en periodos de 12 horas. 
+Si te levantas a las 7 y tomas café a las 8, para las 20 ya no puedes darle de comer más al cuerpo. de 20 a cuando vuelvas al café a las 7 estarás haciendo fasting.
+Como beneficio tiene que ese periodo de fasting libera ketons y activa la quema de grasa como fuente de energía, y repara bastantes cosas en el cuerpo. Porque 
+por alguna razón el cuerpo se repara mejor cuando hace fasting, crea más músculo etc.
+- Fasting > 6 a 8 horas para quedarse sin glucógeno y empezar a quemar grasa. Entre 8 y 10 se empieza a generar otra cosa.(ketons). Cuando comes y metabolizas,
+solo reparas el daño que se produce cuando se hace fasting. 
+- El fasting es algo natural, cuando eramos primitivos, y ahora muchos animales, solo tienen oportunidad para cazar dos veces al dia, y el resto no comen. en 
+ese periodo de no comer, en el que están haciendo fasting, el cuerpo se repara. Repara y rejuvenece.
+- Le pidieron a gente gordita que sólo se limitará a comer dentro de 10 horas al día. Sin limitar comida ni calorías ni nada. Como ellos comen pero en 10 horas.
+Bajaron de peso y se encontraron traban con más energía por las mañanas.
+- En moscas restringiendo a 12 horas y tenían menos arritmias conforme envejeciendo
