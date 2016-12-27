@@ -42,9 +42,19 @@ Los hombres que comen de 3 a 5 servring de estas verduras tenian una reducción 
 
 La gente con cáncer de vejiga comiendo 4 raciones de raw broccoli a lmés tuvieron una reducción del 57% en la tase de mortalidad y un 43% reducción en all cause mortality comparada con aquellos tomando una sola ración al més.
 
-Está claro que hay una fuerte asociación entre el consumo de .
+Está claro que hay una fuerte asociación entre el consumo de brocoli y salud. Pero antes de afirmarlo hay que estasblecer un mecanimos plausible, el mecanismo más probable es el Isothiocyanates. 
 
-https://youtu.be/zz4YVJ4aRfg?t=222
+### Isothiocyanates
+
+Se forman mediante componentes conocidos como glucosinolates a través de una enzima llamada myrosinase. Esta enzima se activa cuando el tejido de la planta crucífera se crushed, corta o mastica. Pero se desactiva bajo condiciiones como mantenerlas a altas temperaturas durante mucho tiempo, como en la cocción.
+
+Un tipo particular de Isothiocyanates, el Sulforaphane destaca sobre el resto, particularmente debido a la gran cantidad de estudios que se han realizado sobre ella. El glucosinolate precursor del sulforaphane es el glucoraphanin. Los brotes de brocoli pueden contener hasta 100 vecees más de este precursos que el brócoli.
+
+El sulforaphane reduce el riesgo de cancer y mata a las céluslas canrecígenas. Un mecanismo de prevención es la desactivación de la fase 1 de biotransformación de las enzimas. Estas encimas son responsables de convertir procarcinógenos a carcinógenos activos. Sulforaphane puede prevenir DNA adducts, un tipo de daño al ADN que se ha demostrado degenera en cancer.
+
+El humo del tabaco está repleto de carcinógenos que forman DNA adducts. Esto incrementa el riesgo de áncer de bejiga. Comer al menos 4.5 raciones de verduras crucíferas al mes se ha asociado con el decremento de padecer cáncer de pulmón hasta un 55%. De igual manera, en un estidio el que se le proporciona a las ratas un componente que causa cáncer de vejiga, el grupo que no tomaba est etipo de verduras desarrolló cáncer (un 95% de las ratas), mientras que otro grupo de ratas, tomando el mismo componente que provaca cáncer y también las verduras crucíferas desarroolaron cancer solo el 37% de las ratas, y además sus cáncers eran mucho más pequeños. Otros estudios con otros animalas han demostrado que el Isothicynates reducen el cáncer. Para el cáncer de próstata pasa igual. Hombres con c. de prostata a los que se les da 60mg de sulforaphane al día, en forma de unos 140g de brotes de brócolis redujeron la tasa que mide por cuanto se dobla el tamaño del tumor en hasta (PSA) hasta un 86% comparado con el placebo. En otro estdio, se usó 35mg de sulforaphane y se redujo también la tasa, pero redujo en un 57%. Para el cáncer de mama, 37mg de sulforaphane (85g de brotes) se encontró la acumulación de este componenete en el contenido del cáncer de pecho. Esto quiere decir que la molécula de hecho llega al tejido con cáncer.
+
+https://youtu.be/zz4YVJ4aRfg?t=479
 
 
 
