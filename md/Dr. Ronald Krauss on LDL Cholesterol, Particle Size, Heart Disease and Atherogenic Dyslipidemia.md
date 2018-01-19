@@ -1,6 +1,6 @@
-Dr. Ronald Krauss, M.D. is the director of atherosclerosis research at Children’s Hospital Oakland Research Institute, Adjunct Professor at UCSF and UC Berkeley. 
+Dr. Ronald Krauss, M.D. is the director of atherosclerosis research at Children’s Hospital Oakland Research Institute, Adjunct Professor at UCSF and UC Berkeley.
 
-Dr. Krauss is really one of the pioneering scientists that changed the way we all think about cholesterol. 
+Dr. Krauss is really one of the pioneering scientists that changed the way we all think about cholesterol.
 
 He developed an assay that allows the quantification of low-density lipoprotein particle size and concentration (known to the wider world mostly as just "LDL cholesterol") based on a technique which determines the size of the particle based on physics...meaning the speed at which it flies through the air. This test which has not yet been fully adopted into all clinical practice in the manner that the total LDL cholesterol test has is known as the "ion mobility" test.
 
@@ -8,12 +8,12 @@ In this episode, Rhonda and Ron discuss what HDL and LDL cholesterol are, what t
 
 Durante años se creia que hay colesterol malo y bueno, es más complicado:
 
-HDL el bueno
-LDL el malo
+- HDL el bueno
+- LDL el malo
 
 Mentira, hay más, distintas densidades y tamaños.
 
-Colesterol es parte de LDL, pero no es todo lo que hay. Al edir LDL colesterol, es la suma de varias particulas de LDL, desde chicas a grandes. Como dice mark sisson. 
+Colesterol es parte de LDL, pero no es todo lo que hay. Al edir LDL colesterol, es la suma de varias particulas de LDL, desde chicas a grandes. Como dice mark sisson.
 
 Estas distinas formas de LDL tienen distintas funciones metabólicas. Inicialmente se categorizan en dos, a grandes rasgos, pequeñs y densas, grandes y menos densas.
 
@@ -31,7 +31,7 @@ Las particulas LDL más pequeñas, son las que se pegan en las paredes de las ar
 
 ## Characteristics of small, dense LDL
 
-- Carry less cholesterol than the more buoyant variety of LDL. 
+- Carry less cholesterol than the more buoyant variety of LDL.
 - Run a greater risk of ending up in the artery wall.
 - Once in the arteries they bind more tightly, tend to stick, and become oxidized.
 
@@ -54,7 +54,7 @@ El hígado empaqueta los trigliceridos, y lleva algun colesterol. Hay distintos 
 
 Enables fats and cholesterol to move within the water-based solution of the bloodstream. VLDL is assembled in the liver from triglycerides, cholesterol, and apolipoproteins. VLDL is converted iin the bloodstream to low density lipoprotein (LDL). VLDL transport endogenous products, whereas chylomicrons transport exogenous (dietary) products.
 
-Las distintas formas de VLDL dan forma a distintos tipos de LDL. Colesterorl en general, es un pasajero en un tren que es el triglicerido. El triglicerido se usa para energia y almacenamiento de energia. Mientras el proceso de romper el triglicerido las particlas se hacen mas pequeµñas, pero mantienen el colesterol. 
+Las distintas formas de VLDL dan forma a distintos tipos de LDL. Colesterorl en general, es un pasajero en un tren que es el triglicerido. El triglicerido se usa para energia y almacenamiento de energia. Mientras el proceso de romper el triglicerido las particlas se hacen mas pequeµñas, pero mantienen el colesterol.
 
 Todos los tissues del cuerpo generan colesterol, pero no generan trigliceridos.
 
@@ -62,7 +62,7 @@ El LDL es el by product de los trigliceridos.
 
 ONe of the issues that we have as humans versus almost all other species is that we dont have a very efficient way of removing LDL from the blood.
 
-Nuestro niveles de LDL son mayores que en el resto de animales. 
+Nuestro niveles de LDL son mayores que en el resto de animales.
 
 Es esta ineficencia al elminar LDL lo que provoca los problemas de corazón.
 
@@ -78,7 +78,7 @@ HDL, extrae colesterol de tissues, quita el colesterol extra de los tissues que 
 
 A type of white blood cell that engulfs and digests cellular debris, foreign substances, microbes, and cancer cells in a process called phagocytosis. MacroPhages become known as foam cells after phagocytixing oxidixed LDL.
 
-LDL esta asociado cun un incremento en las particulas chicas LDL. 
+LDL esta asociado cun un incremento en las particulas chicas LDL.
 
 ## Traits of atherogenic dyslipidemia
 
@@ -118,7 +118,7 @@ VLDL production is tightly regulated and dependent on the concentration of ApoB 
 
 _Inflamatory cytokines_ circumvent this regulatory process and tell the body to make more VLDL, which can go on to becom LDL.
 
-El cuerpo tiene un cuerpo extraño, en estos dias más que algo externo peude ser una placa en la arteria, pero la respuesta es la misma. En resumen en respuesta a algo malao: Indlamación, se procucen cytokines, se incrementan la sisteiss de lipidos, se reducen la degradacion de APOb, permibiendo la rádpida exportación de VLDL particulas, todo esto ocurre en minutos. 
+El cuerpo tiene un cuerpo extraño, en estos dias más que algo externo peude ser una placa en la arteria, pero la respuesta es la misma. En resumen en respuesta a algo malao: Indlamación, se procucen cytokines, se incrementan la sisteiss de lipidos, se reducen la degradacion de APOb, permibiendo la rádpida exportación de VLDL particulas, todo esto ocurre en minutos.
 
 ## Lipopolysacharide or LPS
 
@@ -134,7 +134,7 @@ Cell surface receptor that mediates the endocytosis of cholesterol-rich LDL by r
 
 This receptor also recognizes the apoB protein.
 
-Conforme la particula se hace más pequeña, el receptor no consigue capturar las LDL mas pequeñas. 
+Conforme la particula se hace más pequeña, el receptor no consigue capturar las LDL mas pequeñas.
 
 The fact that small, dense LDL particles are circulaing so much longer gives them much more opportunity to interact with the arteries and go through transformations that can be pro-inflammatory tehmselves.
 
@@ -144,13 +144,13 @@ LPS se lanza para limpiar el LDL.
 
 ## Diet
 
-La gente piensa que el colesterol viene de la dieta, pero no es verdad. 
+La gente piensa que el colesterol viene de la dieta, pero no es verdad.
 
 ### Grasa
 
-Dietary colesterol tiene un importancia minima en los niveles de colesterol en la sangre, así que no pasa nada comer tantos huevos como quieras, no incrementa los niveles de colesterol. 
+Dietary colesterol tiene un importancia minima en los niveles de colesterol en la sangre, así que no pasa nada comer tantos huevos como quieras, no incrementa los niveles de colesterol.
 
-Es más importante fijarse en dietary patterns más que en nutrientes individuales. Hay que fijarse en la dieta en general. 
+Es más importante fijarse en dietary patterns más que en nutrientes individuales. Hay que fijarse en la dieta en general.
 
 Las grasas saturadas incrementan los niveles de LDL, pero incrementan los nievels de la partícula grande, menos densa, la buena. Por tanto no está relacionado con problemas de corazón, las grasas saturadas son las mejores que podemos tomar, porque son más resistentes.
 
@@ -164,9 +164,9 @@ El doctor creia, como todos sus colegas que las dietas basjas en grasas eran las
 
 La hipotesis; Gente con small LDL would have a good response en un alow fat diet. pero se mostró lo contrario. La gente que empezó con LDL grande, al pasar a una dieta low fat hizo que su LDL se fuera haciendo pequeño, es decir, del malo.
 
-Lo que encontaron es que: No era el hecho de la low fat diet lo que causaba el incremento de LDL pequeño, es que las dietas altas en carbohidratos promueven el incremento de VLDL en el higado. Y estas luego crean pequeños LDL. Por tanto se tienen niveles altos de triglicerídos, altos de LDL y bajos de HDL. 
+Lo que encontaron es que: No era el hecho de la low fat diet lo que causaba el incremento de LDL pequeño, es que las dietas altas en carbohidratos promueven el incremento de VLDL en el higado. Y estas luego crean pequeños LDL. Por tanto se tienen niveles altos de triglicerídos, altos de LDL y bajos de HDL.
 
-Lo hidratos cubren un amplio abanico de comidas, desde fructosa a fibra. Estos último no incrementan tanto los nivels de glucosa en la sangre porque se metabolixzan bien. 
+Lo hidratos cubren un amplio abanico de comidas, desde fructosa a fibra. Estos último no incrementan tanto los nivels de glucosa en la sangre porque se metabolixzan bien.
 
 Conclusión: Lo malo de las dietas bajas en grasas, altas en hidratos son los azucares simples. Es decir, fructosa en particular, azucar. Todos los hidratos tienden a empujar lipid metabolisem en la dirección de crear LDL chico. Son malos en general, obesidad, diabetes, etc.
 
@@ -182,7 +182,7 @@ La fructos de la fruta, pero en el contexto de una comida, no es tan malo, no es
 
 A number associated with a particular type of food that is meant to indicate the food's effect on a person's blood glucose level. A value of 100 represents the standart, an equivalent amount of pure glucose. The glycemic index represents the total rise in a person's blood suar level following consumption of the food. it may or may not represent the rapidity of the rise.
 
-Los efectos del a fructosa son indiscutibles, el higado los transforma a grasa. Startches, que son muy altos glicemicamente. Pero el doctor no cree que el indice sea un indicador de problemas de corazón. si que recomienda alejarnos de toda la comida procesada y startches, que solo añaden calorias. 
+Los efectos del a fructosa son indiscutibles, el higado los transforma a grasa. Startches, que son muy altos glicemicamente. Pero el doctor no cree que el indice sea un indicador de problemas de corazón. si que recomienda alejarnos de toda la comida procesada y startches, que solo añaden calorias.
 
 ## Glycemic load
 
@@ -200,7 +200,7 @@ The work of Krauss and colleagues has demosntrated that smaller, denser LDL part
 
 ## Statin
 
-El efecto de statin en LDL chicos: Ninguno, statins reduce the larger LDL particles with less of an effect on small, dense LDL particles, which are the ones more associated with heart diseasse. 
+El efecto de statin en LDL chicos: Ninguno, statins reduce the larger LDL particles with less of an effect on small, dense LDL particles, which are the ones more associated with heart diseasse.
 
 ## Remember!!
 
